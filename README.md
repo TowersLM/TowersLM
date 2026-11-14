@@ -17,7 +17,7 @@ as well as some additional experience with C++, Ruby, and MIPS.
 - Blender
 - Krita
 - Processing
-- Mars
+- MARS
 
 <!--
 **LucasMigTorres/LucasMigTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
